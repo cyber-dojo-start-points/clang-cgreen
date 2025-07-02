@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/clang_cgreen:9a688ed",
-  "display_name": "C (clang), Cgreen",
+  "image_name": "ghcr.io/cyber-dojo-languages/clang_cgreen:e006ccc",
+  "display_name": "C (clang 14.0.0), Cgreen 1.6.3",
   "visible_filenames": [
     "hiker.c",
     "hiker.h",
