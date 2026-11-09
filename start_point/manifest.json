@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clang_cgreen:0cded2e@sha256:93c3839548ea96c369b9b691dda5086fe4d496da37a033dc2ca32d6c1e10034b",
-  "display_name": "C (clang 23.1.5), Cgreen 1.7.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/clang_cgreen:39a983c@sha256:927a5f4aee652da32e20c10d069d35e311db96ab9824bac377b21180a6ce1748",
+  "display_name": "C (clang 23.1.6), Cgreen 1.7.0",
   "language": [
     "C (clang)",
-    "23.1.5"
+    "23.1.6"
   ],
   "test_framework": [
     "Cgreen",
